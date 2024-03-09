@@ -1,0 +1,14 @@
+# Cache data
+__pycache__/
+*.py[cod]
+*$py.class
+.idea
+
+# Allure
+allure_result
+
+# Environments
+.env
+.venv
+env/
+venv/
